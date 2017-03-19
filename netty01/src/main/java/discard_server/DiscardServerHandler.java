@@ -1,9 +1,7 @@
 package discard_server;
 
-import io.netty.channel.ChannelHandler;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
-import io.netty.util.concurrent.EventExecutorGroup;
 
 /**
  * Created by hyecheon on 2017. 3. 19..
