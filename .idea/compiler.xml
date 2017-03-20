@@ -9,11 +9,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="netty01" />
         <module name="netty02" />
+        <module name="netty03" />
+        <module name="netty04" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="netty01" target="1.8" />
       <module name="netty02" target="1.8" />
+      <module name="netty03" target="1.8" />
+      <module name="netty04" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
