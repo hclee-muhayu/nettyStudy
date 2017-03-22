@@ -11,13 +11,15 @@
         <module name="netty02" />
         <module name="netty03" />
         <module name="netty04" />
+        <module name="netty07" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="netty01" target="1.8" />
-      <module name="netty02" target="1.8" />
-      <module name="netty03" target="1.8" />
-      <module name="netty04" target="1.8" />
+      <module name="netty01" target="1.5" />
+      <module name="netty02" target="1.5" />
+      <module name="netty03" target="1.5" />
+      <module name="netty04" target="1.5" />
+      <module name="netty07" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

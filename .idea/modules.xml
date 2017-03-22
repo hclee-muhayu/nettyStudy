@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/netty02/netty02.iml" filepath="$PROJECT_DIR$/netty02/netty02.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty03/netty03.iml" filepath="$PROJECT_DIR$/netty03/netty03.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty04/netty04.iml" filepath="$PROJECT_DIR$/netty04/netty04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty07/netty07.iml" filepath="$PROJECT_DIR$/netty07/netty07.iml" />
     </modules>
   </component>
 </project>
